@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "28f9",
+      "title": "Assumenda dolores ex",
+      "type": "Part-Time",
+      "location": "Excepteur suscipit q",
+      "description": "Hic excepteur est lo",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Mullins Juarez Associates",
+        "description": "Ipsum repellendus P",
+        "contactEmail": "nuhaqi@mailinator.com",
+        "contactPhone": "+1 (425) 367-8412"
+      }
     }
   ]
 }
